@@ -1,6 +1,6 @@
 {
- "name": "Toxic-Alexa_V3",
- "description": "Multi Device Whatsapp Bot By Turbo",
+ "name": "VipeR Ser MD",
+ "description": "Multi Device Whatsapp Bot By VipeR",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -10,7 +10,7 @@
  "keywords": [
   "termux",
   "whatsapp",
-  "Toxic-Alexa_V3",
+  "VipeR MD",
   "wabase-md",
   "base",
   "baileys-md",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "TURBOHYPER ",
+ "author": "VipeR ",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.0.1",
